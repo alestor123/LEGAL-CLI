@@ -19,7 +19,6 @@
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
-    "figlet": "^1.5.0",
     "fs": "0.0.1-security",
     "pkg-up": "^3.1.0"
   }
